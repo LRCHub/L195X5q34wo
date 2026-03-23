@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "卑屈の脳内",
+  "base_artist": "青谷",
+  "createdAt": "2026-03-23T15:15:06.042340Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "卑屈の脳内",
+      "artist": "青谷",
+      "has_synced": false,
+      "path": "select/pl_01_卑屈の脳内_青谷.txt"
+    }
+  ]
+}
